@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to TNT Refreshments
 
 You can use the [editor on GitHub](https://github.com/seanruane13/TNT-Refreshments/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
